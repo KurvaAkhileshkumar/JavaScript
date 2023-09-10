@@ -6,6 +6,7 @@ objects
 objectsUsingConstructor
 classes
 ES6
+Modules
 asynchronousJS
 promises
 makingApiCalls
